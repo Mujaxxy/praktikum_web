@@ -1,0 +1,46 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(195, 50, 50);
+   
+}
+
+p{
+
+    text-align: justify;
+}
+
+#box{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+#header{
+    background-color: rgba(5, 9, 123, 0.429);
+    padding: 20px;
+}
+#menubar{
+    background-color: rgb(203, 58, 92);
+    margin: auto;
+}
+#teksmenu{
+    text-decoration: none;
+}
+#konten{
+    padding: 120px;
+    margin-bottom: 70px;
+    border: tomato;
+    margin-top: 30px;
+    border-style: double;
+    
+  
+    
+}
+#footer{
+    background-color: rgb(12, 11, 11);
+    color: aliceblue;
+    padding: 20px;
+    margin-top: 50px;
+    
+   
+}
